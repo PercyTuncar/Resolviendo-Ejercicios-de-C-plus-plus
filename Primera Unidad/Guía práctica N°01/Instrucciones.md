@@ -16,3 +16,9 @@ para hallar el área del terreno si sólo se ingresan dos longitudes (A, B)
 
 4. Para la elaboración de una pieza mecánica se requiere plantillas (ver figura de área sombreada),
 elaborar un programa para determinar el área de cada plantilla, si se ingresa un lado del cuadrado.
+
+
+> **No olvides seguirme en: 💙[Twitter](https://twitter.com/percy_tuncar)  e💖[Instagram](https://www.instagram.com/percy_tuncar/)  
+> Brindo asesoría personalizada mediante 💚 [WhatsApp](https://wa.me/51913642399)**
+
+¡Espero que este repositorio te ayude!
